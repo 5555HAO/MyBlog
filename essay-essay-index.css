@@ -52,10 +52,6 @@
 
 .headimg-bottom-dig{
     color:rgba(250,250,250,0.6);
-    /* position:relative; */
-    /* position:absolute;
-    top:280px;
-    right:1257px; */
     display:flex;
     flex-direction:row;
     font-size:17.7px;
@@ -190,4 +186,5 @@
     transform:scale(1.05);
 
 }
+
 
