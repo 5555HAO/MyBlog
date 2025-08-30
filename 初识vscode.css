@@ -6,7 +6,7 @@
 .background{
     width:1519.55px;
     height:1475px;
-    background-image:url(../image/index-background.jpeg);
+    background-image:url(./index-background.jpeg);
     background-size:cover;
 }
 
@@ -343,4 +343,5 @@
 
 .bottom-ul-li-3:hover{
     transform:scale(1.12);
+
 }
