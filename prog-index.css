@@ -6,7 +6,7 @@
 .background{
     width:1519.55px;
     height:1525px;
-    background-image:url(../image/index-background.jpeg);
+    background-image:url(./index-background.jpeg);
     background-size:cover;
     /* position:fixed; */
 }
@@ -121,7 +121,7 @@
 .essay-1-background{
     width:800px;
     height:380px;
-    background-image:url(../image/essay-vscode-background.jpg);
+    background-image:url(./essay-vscode-background.jpg);
     background-size:cover;
     border-radius:18px;
     position:relative;
@@ -210,7 +210,7 @@
 .essay-2-background{
     width:800px;
     height:380px;
-    background-image:url(../image/essay-prog-background.jpg);
+    background-image:url(./essay-prog-background.jpg);
     background-size:cover;
     border-radius:18px;
     position:relative;
@@ -279,4 +279,5 @@
 
 .essay-2-label:hover{
     transform:scale(1.05);
+
 }
