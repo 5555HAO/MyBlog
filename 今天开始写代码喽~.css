@@ -8,7 +8,6 @@
     height:820px;
     background-image:url(./index-background.jpeg);
     background-size:cover;
-    /* position:fixed; */
 }
 
 .white-background{
@@ -305,3 +304,4 @@
     transform:scale(1.12);
 
 }
+
